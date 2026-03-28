@@ -1,0 +1,4 @@
+Instance ID: sitemap-scraper.task-1
+Test Files: task_tests.py
+FAIL_TO_PASS: ['test_success_case_multiple_pages', 'test_timeout_handling', 'test_http_error_handling', 'test_partial_extraction_with_failures', 'test_malformed_input_handling', 'test_large_input_respects_max_urls', 'test_sitemap_index_recursive', 'test_all_failures_returns_exit_code_one']
+PASS_TO_PASS: ['test_deterministic_output_order']
